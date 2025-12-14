@@ -1,5 +1,20 @@
 # ai-lab-notes
-Experiment notes
+
+This repository is a personal research log.
+
+Goal:
+- Understand generative models by breaking them
+- Focus on medical imaging (CT/MR)
+
+What this is:
+- Experimental notes
+- Failed trials
+- Intuition-first explanations
+
+What this is NOT:
+- Production-ready code
+- Complete tutorials
+
 ```
 ai-lab-notes/
 ├── README.md
