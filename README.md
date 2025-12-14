@@ -1,4 +1,4 @@
-# ai-lab-notes
+# AI-lab-notes
 
 This repository is a personal research log.
 
